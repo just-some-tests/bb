@@ -5,7 +5,7 @@
   "main": "./dist/gitment.js",
   "author": {
     "name": "Shiquan Sun",
-    "url": "https://github.com/imsun"
+    "url": "https://github.com/just-some-tests"
   },
   "keywords": [
     "comment system",
@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/imsun/gitment"
+    "url": "https://github.com/just-some-tests/bb"
   },
   "bugs": {
-    "url": "https://github.com/imsun/gitment/issues"
+    "url": "https://github.com/just-some-tests/bb/issues"
   },
-  "homepage": "https://github.com/imsun/gitment",
+  "homepage": "https://github.com/just-some-tests/bb",
   "scripts": {
     "build": "babel src --out-dir dist --ignore test.js --source-maps & NODE_ENV=production webpack --config webpack.config.js --progress --profile --colors",
     "dev": "webpack-dev-server --config webpack.dev.config.js --host 0.0.0.0 --progress --profile --colors"
